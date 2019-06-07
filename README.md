@@ -1,4 +1,5 @@
 # vue-ant-repect
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+>>>>>>> 92ceac9f382d1e93859741391dcd88f1a36a1869
